@@ -1,0 +1,159 @@
+.nav
+{
+    margin-left: 150px;
+    font-family: "gotham-medium";
+}
+.head{
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 2%;
+}
+.head h1{
+    font-family: "gotham-medium";
+
+}
+.head p{  
+    width: 35%;   
+    margin: 0px auto;
+    font-family: "gotham-book";
+    padding-bottom:20px;
+    color: #6c757d;
+    font-size:18px;
+}
+.blue-button
+{
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    background-color:blue;
+    color:white;
+    border: blue 1px;
+    font-family: "gotham-book";
+    margin-left: 4px;
+}
+.brown-button
+{
+    margin-left: 4px;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    background-color: #6c757d;
+    color:white;
+    border: #6c757d 1px;
+    font-family: "gotham-book";
+}
+.card1
+{       
+       width: 31%;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+       display:inline-block;
+        padding: 5px;
+        margin: 5px;
+}
+.card-head
+{
+    padding: 90px;
+    text-align: center;
+    background-color: #6c757d;
+    font-family: "gotham-medium";
+    color:white;
+
+}
+.card{
+    margin: 8%;
+    
+}
+.card-content p{
+    padding: 0px 15px;
+    font-family: "gotham-book";
+}
+
+.card-button
+{
+
+    margin-left: 13px;
+    padding-bottom: 15px;
+    font-family: "gotham-book";
+}
+.card-button p
+{
+    float:right;
+    padding-top:0px;
+    margin: 0px 15px 0px 0px;
+    font-family: "gotham-book";
+}
+.button3{
+    background-color:white;
+    color:#6c757d;
+    border: 1px solid #6c757d;
+    padding: 6px;
+    border-radius: 2px;
+    border-right:none;
+}
+
+.button4{
+    background-color:white;
+    color:#6c757d;
+    border: 1px solid #6c757d;
+    padding: 6px;
+    border-radius: 2px;
+    margin-left: -5px;
+    
+}
+.button3:hover
+{
+        background-color: #6c757d;
+        color: white;
+        cursor: pointer;
+}
+.button4:hover
+{
+        background-color: #6c757d;
+        color: white;
+        cursor: pointer;
+}
+.footer
+{
+    margin-left: 9%;
+}
+.footer p
+{
+    display: inline-block;
+    width: 46%;
+    line-height: 27.5px;
+    color: #6c757d;
+}
+span{
+
+    float: right;
+    margin-right: 25px;
+    color: #6c757d;
+}
+.footer p a
+{
+
+    display: inline-block;
+    text-decoration:none;
+    color:blue;
+}
+.footer p a:hover{
+    text-decoration: underline;
+    color:blueviolet;
+}
+.footer a{
+
+    display: inline-block;
+    color:blue;
+    text-decoration: none;
+    
+}
+.footer a:hover{
+    text-decoration: underline;
+    color:blueviolet;
+}
+.bottom
+{
+    margin: 30px 120px;
+}
